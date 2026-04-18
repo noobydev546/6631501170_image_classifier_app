@@ -1,9 +1,4 @@
-tensorflow
+tensorflow-cpu
 streamlit
 Pillow
-gradio
-pandas
 numpy
-scikit-learn
-joblib
-plotly
