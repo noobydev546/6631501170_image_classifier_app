@@ -2,3 +2,8 @@ tensorflow
 streamlit
 Pillow
 gradio
+pandas
+numpy
+scikit-learn
+joblib
+plotly
